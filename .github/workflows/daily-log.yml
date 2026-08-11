@@ -23,6 +23,9 @@ jobs:
       - name: Update STREAK.md
         run: python tools/quote_fetcher.py
 
+      - name: Show streak stats
+        run: bash tools/streak_stats.sh
+
       - name: Commit & push kalau ada perubahan
         run: |
           git config user.name "Shii-ux"
