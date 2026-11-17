@@ -100,3 +100,4 @@ Log harian otomatis. Tiap baris = satu hari aktif.
 - **2026-11-14** (04:19) — "First, solve the problem. Then, write the code." — *John Johnson*
 - **2026-11-15** (04:03) — "Code never lies, comments sometimes do." — *Ron Jeffries*
 - **2026-11-16** (04:03) — "Make it work, make it right, make it fast." — *Kent Beck*
+- **2026-11-17** (05:54) — "First, solve the problem. Then, write the code." — *John Johnson*
